@@ -1,0 +1,8 @@
+=> git init : first time when you want to add your code in git than use this command.Remember to use this below command only one time when you are setting up your project in git.
+   
+
+=> git status : it is used to tell you in which files you have made changes
+
+=> git add "file name": it is used to track that file
+
+=> git add .
