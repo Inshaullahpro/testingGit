@@ -5,4 +5,14 @@
 
 => git add "file name": it is used to track that file
 
-=> git add .
+=> git add . : it is used to track all files in current project folder
+
+=> git commit -m " write your message" : it is used to store your code in git
+
+=> the above commands is used to store your code in locally using git.git 
+
+=> git branch -M main : one time command for first setup to assign a main branch 
+
+=> git remote add origin url: it is one time command use to connect your local git to remote githoub i.e to connect online github repositry
+
+=> git push -u origin main: it is used to push your local means git data to online means github
